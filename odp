@@ -7,7 +7,7 @@
 
 
 	nowy plik:     .gitignore
-ponieważ zostały zmodyfikowane
+ponieważ zostały zmodyfikowane, pliki z rozszeżeniem ".txt" są ignorowane, dzięki plikowi gitignore
 	nowy plik:     readme
 
 
